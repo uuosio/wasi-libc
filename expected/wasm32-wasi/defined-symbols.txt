@@ -844,9 +844,7 @@ mbtowc
 memccpy
 memchr
 memcmp
-memcpy
 memmem
-memmove
 mempcpy
 memrchr
 memset

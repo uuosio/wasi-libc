@@ -66,3 +66,5 @@ __trunctfsf2
 __unordtf2
 __wasm_call_ctors
 main
+memcpy
+memmove
