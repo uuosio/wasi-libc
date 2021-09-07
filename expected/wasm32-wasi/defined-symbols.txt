@@ -843,11 +843,9 @@ mbstowcs
 mbtowc
 memccpy
 memchr
-memcmp
 memmem
 mempcpy
 memrchr
-memset
 mkdir
 mkdirat
 mktime
